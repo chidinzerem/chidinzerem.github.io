@@ -4,11 +4,11 @@
 
 ### SQL Projects
 
-[IOWA LIQUOR STORE](/sample_page)
+- [IOWA LIQUOR STORE](/sample_page)
 <img src="Downloads/Picture_iowaLiquorStore.png?raw=true"/>
 
----
-[Ridex](/pdf/sample_presentation.pdf)
+
+- [RIDEX](/pdf/sample_presentation.pdf)
 <img src="Downloads/ridex.png?raw=true"/>
 
 ---
@@ -16,7 +16,7 @@
 
 ### Python Projects
 
-- [Washington House Sales](http://example.com/)
+- [WASHINGTON HOUSE SALES](http://example.com/)
 <img src="Downloads/Picture_HouseSales.png?raw=true"/>
 
 
