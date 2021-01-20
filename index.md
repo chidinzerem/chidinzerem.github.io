@@ -17,7 +17,7 @@
 ### Python Projects
 
 - [WASHINGTON HOUSE SALES RESEARCH](http://example.com/)
-<img src="https://github.com/chidinzerem/chidinzerem.github.io/blob/master/images/Picture_HouseSales.PNG"/>
+<img src="github.com/chidinzerem/chidinzerem.github.io/blob/master/images/Picture_HouseSales.PNG"/>
 
 - [AUTOMATED WEB-SCRAPER SCRIPT ](http://example.com/)
 
