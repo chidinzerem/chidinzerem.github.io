@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Chidi Donald Nzerem # your name (or website title) here
+logo: "/_DSC0866.JPG/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Im a Masters of business analytics student at the university of colorado boulder.
+  My love for problem solves led me down a career path with data analytics, and
+  I have a vested interest in using my skills as an analytics to make an impact
+  in the world
   <br><br>
-  Second description 
+  My expertise lie in MySQL, Python, R, Tableau and Docker
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/chidi-nzerem-6a83941a9">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
