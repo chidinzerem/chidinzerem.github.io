@@ -5,7 +5,7 @@
 ### SQL Projects
 
 - [IOWA LIQUOR STORE RESEARCH](/sample_page)
-<img src="/images/Picture_iowaLiquorStore.png?raw=true"/>
+<img src="/images/Picture_iowaLiquorStore.png"/>
 
 
 - [RIDEX SQL SCRIPT/TABLEAU](/pdf/sample_presentation.pdf)
