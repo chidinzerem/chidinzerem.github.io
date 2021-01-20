@@ -5,21 +5,19 @@
 ### SQL Projects
 
 [IOWA LIQUOR STORE](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Picture_iowaLiquorStore.jpg?raw=true"/>
 
 ---
 [Ridex](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ridex.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Python Projects
 
 - [Washington House Sales](http://example.com/)
+<img src="images/Picture_HouseSales.jpg?raw=true"/>
 
 
 ---
