@@ -6,7 +6,7 @@
 
 - [IOWA LIQUOR STORE RESEARCH](/pdf/Final_Python.pdf)
   - GOAL: Use MySQL to attempt to predict upcoming demand of specific alcohol
-<img src="/images/IOWALIQ.png"/>
+<img src="/images/IOWALIQ.png?raw=true"/>
 
 
 - [RIDEX SQL SCRIPT/TABLEAU](/pdf/Team_9_Project_Scenario_5405.pdf)
@@ -23,7 +23,7 @@
 <img src="/images/Picture_HouseSales.PNG?raw=true"/>
 
 - [AUTOMATED WEB-SCRAPER SCRIPT ](http://example.com/)
-  - o	Goal: Automate data entry of course details and professors information from school website using python
+  - Goal: Automate data entry of course details and professors information from school website using python
 <img src="/images/webscrappic.png?raw=true"/>
 
 
@@ -33,11 +33,11 @@
 ### R Projects
 - [HEART FAILURE RESEARCH](/pdf/Final_R.pdt)
   - Goal: Use RStudio to predict likely patients to die from heart failure given hospital data
-<img src="/images/RPIC.PNG?raw=true"/>
+<img src="/images/RPIC.png?raw=true"/>
 
 
 
 ---
 <p style="font-size:11px">
-#Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
 <!-- Remove above link if you don't want to attibute -->
