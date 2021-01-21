@@ -5,12 +5,13 @@
 ### SQL Projects
 
 - [IOWA LIQUOR STORE RESEARCH](/pdf/Final_Python.pdf)
-  - dmdsfdf
-<img src="/images/Picture_iowaLiquorStore.PNG"/>
+  - GOAL: Use MySQL to attempt to predict upcoming demand of specific alcohol
+<img src="/images/IOWALIQ.PNG"/>
 
 
 - [RIDEX SQL SCRIPT/TABLEAU](/pdf/Team_9_Project_Scenario_5405.pdf)
-<img src="/images/ridex.PNG?raw=true"/>
+  - GOAL: Use MySQL to reduce cost from the company and increase efficiency of drivers
+<img src="/images/RIDEXPIC.PNG?raw=true"/>
 
 ---
 
@@ -18,16 +19,21 @@
 ### Python Projects
 
 - [WASHINGTON HOUSE SALES RESEARCH](/pdf/Final_SQL.pdf)
+  - Goal: Use python to predict future sales prices of house based on initial factors that influenced sale prices
 <img src="/images/Picture_HouseSales.PNG?raw=true"/>
 
 - [AUTOMATED WEB-SCRAPER SCRIPT ](http://example.com/)
+  - o	Goal: Automate data entry of course details and professors information from school website using python
+<img src="/images/webscrappic.PNG?raw=true"/>
 
 
 
 ---
 
 ### R Projects
-- [HEART FAILURE PATIENTS RESEARCH](/pdf/Final_R.pdt)
+- [HEART FAILURE RESEARCH](/pdf/Final_R.pdt)
+  - Goal: Use RStudio to predict likely patients to die from heart failure given hospital data
+<img src="/images/RPIC.PNG?raw=true"/>
 
 
 
