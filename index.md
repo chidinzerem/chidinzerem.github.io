@@ -6,12 +6,12 @@
 
 - [IOWA LIQUOR STORE RESEARCH](/pdf/Final_Python.pdf)
   - GOAL: Use MySQL to attempt to predict upcoming demand of specific alcohol
-<img src="/images/IOWALIQ.PNG"/>
+<img src="/images/IOWALIQ.png"/>
 
 
 - [RIDEX SQL SCRIPT/TABLEAU](/pdf/Team_9_Project_Scenario_5405.pdf)
   - GOAL: Use MySQL to reduce cost from the company and increase efficiency of drivers
-<img src="/images/RIDEXPIC.PNG?raw=true"/>
+<img src="/images/RIDEXPIC.png?raw=true"/>
 
 ---
 
@@ -24,7 +24,7 @@
 
 - [AUTOMATED WEB-SCRAPER SCRIPT ](http://example.com/)
   - o	Goal: Automate data entry of course details and professors information from school website using python
-<img src="/images/webscrappic.PNG?raw=true"/>
+<img src="/images/webscrappic.png?raw=true"/>
 
 
 
